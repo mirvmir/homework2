@@ -1,0 +1,14 @@
+@startuml
+[commit_date]
+[commit_date_2022-01-01] : 2022-01-01
+[commit_date] --> [commit_date_2022-01-01]
+[output_image_path]
+[output_image_path_C:/Users/UwU/Desktop/учёба/конфиг/graph.png] : C:/Users/UwU/Desktop/учёба/конфиг/graph.png
+[output_image_path] --> [output_image_path_C:/Users/UwU/Desktop/учёба/конфиг/graph.png]
+[repository_path]
+[repository_path_C:/Users/UwU/Desktop/учёба/конфиг/дз2/nginx-sqlite-proxypass-resolver] : C:/Users/UwU/Desktop/учёба/конфиг/дз2/nginx-sqlite-proxypass-resolver
+[repository_path] --> [repository_path_C:/Users/UwU/Desktop/учёба/конфиг/дз2/nginx-sqlite-proxypass-resolver]
+[visualization_program_path]
+[visualization_program_path_C:/Users/UwU/Desktop/учёба/конфиг/дз2/plantuml-1.2024.7.jar] : C:/Users/UwU/Desktop/учёба/конфиг/дз2/plantuml-1.2024.7.jar
+[visualization_program_path] --> [visualization_program_path_C:/Users/UwU/Desktop/учёба/конфиг/дз2/plantuml-1.2024.7.jar]
+@enduml
